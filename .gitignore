@@ -1,0 +1,9 @@
+venv
+.env
+
+tree.py
+__pycache__
+
+*.db
+*.log
+*.sql
